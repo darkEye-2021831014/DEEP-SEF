@@ -1,0 +1,4 @@
+horizon,train_rows,test_rows,features,train_grad,train_drop
+t0,2904,726,37,1767,1137
+t1,2904,726,52,1767,1137
+t2,2904,726,74,1767,1137

@@ -1,0 +1,13 @@
+model,meta_features
+LightGBM,p_lightgbm
+CatBoost,p_catboost
+XGBoost,p_xgboost
+ExtraTrees,p_extratrees
+FTTransformer,p_fttransformer
+TabPFN,p_tabpfn
+(aggregate),mean
+(aggregate),std
+(aggregate),min
+(aggregate),max
+(aggregate),spread
+(aggregate),entropy

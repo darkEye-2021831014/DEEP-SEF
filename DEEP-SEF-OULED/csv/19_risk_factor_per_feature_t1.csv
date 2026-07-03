@@ -1,0 +1,59 @@
+horizon,feature,family,mean_abs_shap,mean_shap,direction
+t1,TuitionUpToDate,Financial/Macro,1.7080924709610572,0.3273969150633178,Risk
+t1,vle_active_days,Other,0.8672736984610988,-0.05753030371700881,Protective
+t1,s1_approved,1st-Semester,0.7527303041538471,-0.11967114633499804,Protective
+t1,vle_sites_used,Other,0.573766920281102,-0.05237776594163415,Protective
+t1,s1_enrolled,1st-Semester,0.5546972714951867,0.09389180603425798,Risk
+t1,ApplicationMode,Course/Family,0.5093519673847023,0.46550213011584923,Risk
+t1,financial_risk,Financial/Macro,0.49322994435444684,0.10114030964021882,Risk
+t1,s1_mean_score,1st-Semester,0.42524721815972405,0.05231428406176059,Risk
+t1,s1_grade,1st-Semester,0.4097856252833541,-0.034681399411197786,Protective
+t1,gdp_x_tuition,Financial/Macro,0.3036342408431063,-0.0278424202503543,Protective
+t1,vle_sessions,Other,0.2190058716005806,0.002708005487541852,Risk
+t1,vle_total_clicks,Other,0.19855324098948085,-0.05274511507783111,Protective
+t1,PrevQual,Course/Family,0.17985140102994596,-0.02204775292801269,Protective
+t1,age_x_financial_risk,Financial/Macro,0.1297923546939766,0.025063994786921777,Risk
+t1,s1_late_days,1st-Semester,0.12814676821557325,0.0018150747833792936,Risk
+t1,s1_approval_rate,1st-Semester,0.11059685586799986,-0.023852734092859592,Protective
+t1,s1_eval,1st-Semester,0.11027456171957355,0.013224191345437501,Risk
+t1,Nationality,Demographics,0.056702904630843216,0.0012259830665358614,Risk
+t1,s1_n_assess,1st-Semester,0.0525430934119177,0.010905712066865567,Risk
+t1,admission_vs_prevgrade,Academic Preparation,0.04601372955424762,0.0006839369226884708,Risk
+t1,AdmissionGrade,Academic Preparation,0.03640221272476676,-0.0001697632234002618,Protective
+t1,vulnerability_idx,Financial/Macro,0.03400069696345049,0.008891232057261687,Risk
+t1,ApplicationOrder,Course/Family,0.029765474767538547,0.0008980858572266554,Risk
+t1,age_x_scholarship,Financial/Macro,0.017581007754779707,0.002923261263110293,Risk
+t1,Scholarship,Financial/Macro,0.01707441003882194,0.006863076930171793,Risk
+t1,academic_distress,Risk Composite,0.014655738138194136,-0.0026324990677319983,Protective
+t1,GDP,Financial/Macro,0.01347529617677554,-0.01281454400073183,Protective
+t1,PreviousGrade,Academic Preparation,0.013191398351666328,-0.0016646703731777888,Protective
+t1,Gender,Demographics,0.009190126787569133,0.0028049807044029204,Risk
+t1,s1_pass_efficiency,1st-Semester,0.009164719186950759,-0.0011644276303291658,Protective
+t1,unemp_x_age,Financial/Macro,0.008333810126440083,-0.007084331661777389,Protective
+t1,low_grade_flag_s1,Other,0.007528709602845273,-0.000669271995837611,Protective
+t1,SpecialNeeds,Demographics,0.006084713599202017,-0.0002655889674253182,Protective
+t1,Age,Demographics,0.005982625347304663,-0.0001321965063548665,Protective
+t1,s1_credit_rate,1st-Semester,0.005416169532939518,-0.002157670827689511,Protective
+t1,UnempRate,Financial/Macro,0.004766986796481456,-0.004163752463434843,Protective
+t1,s1_credited,1st-Semester,0.003275387531588058,-0.002081907948012704,Protective
+t1,total_failures,Risk Composite,0.0031730371010931647,-0.002175842508945749,Protective
+t1,s1_n_bank,1st-Semester,0.001548711852321472,-0.0008300384130165344,Protective
+t1,s1_failed,1st-Semester,0.0011392105946464609,-0.00030164016475350656,Protective
+t1,s1_wo_eval,1st-Semester,0.0,0.0,Protective
+t1,MotherQual,Course/Family,0.0,0.0,Protective
+t1,FatherOcc,Course/Family,0.0,0.0,Protective
+t1,MotherOcc,Course/Family,0.0,0.0,Protective
+t1,FatherQual,Course/Family,0.0,0.0,Protective
+t1,Inflation,Financial/Macro,0.0,0.0,Protective
+t1,Displaced,Course/Family,0.0,0.0,Protective
+t1,Debtor,Financial/Macro,0.0,0.0,Protective
+t1,MaritalStatus,Demographics,0.0,0.0,Protective
+t1,Attendance,Other,0.0,0.0,Protective
+t1,parent_occ_avg,Course/Family,0.0,0.0,Protective
+t1,parent_qual_avg,Course/Family,0.0,0.0,Protective
+t1,gdp_x_debtor,Financial/Macro,0.0,0.0,Protective
+t1,inflation_x_debtor,Financial/Macro,0.0,0.0,Protective
+t1,s1_eval_gap,1st-Semester,0.0,0.0,Protective
+t1,s1_eval_rate,1st-Semester,0.0,0.0,Protective
+t1,zero_grade_s1,Other,0.0,0.0,Protective
+t1,eval_participation_gap,Other,0.0,0.0,Protective

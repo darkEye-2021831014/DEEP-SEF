@@ -1,0 +1,4 @@
+horizon,lightgbm_meta_cv_auc,catboost_meta_cv_auc,selected_meta_learner
+t0,0.8453620392600278,0.8495391880838244,CatBoost
+t1,0.9368829702713279,0.9379997678348241,CatBoost
+t2,0.9523408164076315,0.9546357679101245,CatBoost

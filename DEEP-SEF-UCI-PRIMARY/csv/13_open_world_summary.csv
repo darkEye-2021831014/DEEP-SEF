@@ -1,0 +1,4 @@
+horizon,rejection_threshold,reject_rate,ood_mean
+t0,0.9935,0.1006,0.2819
+t1,0.9999,0.1006,0.2586
+t2,1.0,0.1088,0.3331

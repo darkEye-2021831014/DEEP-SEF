@@ -1,0 +1,4 @@
+horizon,description,n_features,n_rows,dropout_rate
+t0,pre_semester,37,3630,0.39146005509641874
+t1,after_sem1,52,3630,0.39146005509641874
+t2,after_sem2,74,3630,0.39146005509641874

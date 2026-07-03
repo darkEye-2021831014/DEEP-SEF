@@ -1,0 +1,44 @@
+horizon,feature,family,mean_abs_shap,mean_shap,direction
+t0,TuitionUpToDate,Financial/Macro,2.1662419135552673,0.23839325973020872,Risk
+t0,s1_n_assess,1st-Semester,1.1684722569691242,0.033426563125159826,Risk
+t0,s1_mean_score,1st-Semester,0.8778712898896278,0.06718431308494444,Risk
+t0,vle_active_days,Other,0.8501368398202351,-0.011232194769516682,Protective
+t0,vle_sites_used,Other,0.5143811391794992,-0.1694475104816299,Protective
+t0,ApplicationMode,Course/Family,0.4822741140206065,0.4813655508767894,Risk
+t0,financial_risk,Financial/Macro,0.4063451465550191,0.027281205451209187,Risk
+t0,vle_sessions,Other,0.24409511015724375,0.009089751032634444,Risk
+t0,gdp_x_tuition,Financial/Macro,0.19751281754677086,-0.05317612437823277,Protective
+t0,PrevQual,Course/Family,0.1617982950240503,-0.02236421276092919,Protective
+t0,vle_total_clicks,Other,0.15715914868521497,0.02443583594103907,Risk
+t0,s1_late_days,1st-Semester,0.13012153815128427,0.010898337808389133,Risk
+t0,age_x_financial_risk,Financial/Macro,0.0711114564823124,0.009664207328363289,Risk
+t0,Nationality,Demographics,0.06502111406411273,0.002177726876035505,Risk
+t0,admission_vs_prevgrade,Academic Preparation,0.04742527933289419,0.0016700830977376428,Risk
+t0,vulnerability_idx,Financial/Macro,0.03671716441973305,0.016163107158117043,Risk
+t0,AdmissionGrade,Academic Preparation,0.03438575794218505,0.0027386925643084446,Risk
+t0,Scholarship,Financial/Macro,0.023576351923707835,0.009425596039655327,Risk
+t0,age_x_scholarship,Financial/Macro,0.023368590867090137,0.0006119187606267275,Risk
+t0,ApplicationOrder,Course/Family,0.02300163225820331,-4.0050364052972506e-05,Protective
+t0,GDP,Financial/Macro,0.019941837580833115,-0.019507396751405254,Protective
+t0,unemp_x_age,Financial/Macro,0.012616443704661522,-0.009497904695673767,Protective
+t0,Gender,Demographics,0.011876190299120898,0.007005798960360383,Risk
+t0,PreviousGrade,Academic Preparation,0.00916586414330221,-0.0006928198381301173,Protective
+t0,SpecialNeeds,Demographics,0.007125946973563406,-0.00014668448088506493,Protective
+t0,Age,Demographics,0.007081872320173899,0.00013770670789480365,Risk
+t0,s1_n_bank,1st-Semester,0.004902841613367941,-0.0023240084925898043,Protective
+t0,UnempRate,Financial/Macro,0.00480623206261858,-0.004425096865958871,Protective
+t0,Inflation,Financial/Macro,0.0008303759186824678,-0.0008303759186824678,Protective
+t0,Displaced,Course/Family,0.0,0.0,Protective
+t0,FatherOcc,Course/Family,0.0,0.0,Protective
+t0,Debtor,Financial/Macro,0.0,0.0,Protective
+t0,MotherQual,Course/Family,0.0,0.0,Protective
+t0,FatherQual,Course/Family,0.0,0.0,Protective
+t0,MotherOcc,Course/Family,0.0,0.0,Protective
+t0,Attendance,Other,0.0,0.0,Protective
+t0,MaritalStatus,Demographics,0.0,0.0,Protective
+t0,total_failures,Risk Composite,0.0,0.0,Protective
+t0,academic_distress,Risk Composite,0.0,0.0,Protective
+t0,gdp_x_debtor,Financial/Macro,0.0,0.0,Protective
+t0,inflation_x_debtor,Financial/Macro,0.0,0.0,Protective
+t0,parent_qual_avg,Course/Family,0.0,0.0,Protective
+t0,parent_occ_avg,Course/Family,0.0,0.0,Protective

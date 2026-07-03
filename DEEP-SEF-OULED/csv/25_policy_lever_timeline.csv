@@ -1,0 +1,23 @@
+horizon,family,mean_abs_shap,share_of_total_impact,suggested_policy_lever
+t0,1st-Semester,0.5453419816558505,0.4450324542641483,Mandatory early-semester (week 4-6) grade check-ins; automatic tutoring referral on low approval/evaluation rate (t1).
+t0,Other,0.35315444756843917,0.2881956567115428,(unclassified features -- inspect individually before assigning a lever).
+t0,Financial/Macro,0.21164773790119276,0.1727175156250187,Front-load scholarship/aid decisions & payment-plan offers before term start (t0); flag debtors for proactive outreach.
+t0,Course/Family,0.06670740413028609,0.054437326991682404,Course-level advising capacity planning; first-generation / low-parental-education student mentoring programs (t0).
+t0,Academic Preparation,0.03032563380612715,0.024747574354863175,"Bridge/remedial modules for students admitted with weak prior grades, assigned before classes begin (t0)."
+t0,Demographics,0.018221024731394166,0.014869472052744715,"Targeted (not diagnostic) outreach for older / displaced / part-time-coded students during orientation (t0) -- context, not a control lever."
+t0,Risk Composite,0.0,0.0,"Composite risk-score dashboards for advisors, refreshed each horizon, to prioritise caseloads (t0-t2)."
+t1,Other,0.23326605511688822,0.3254167406054561,(unclassified features -- inspect individually before assigning a lever).
+t1,Financial/Macro,0.19499865847923845,0.27203198439204074,Front-load scholarship/aid decisions & payment-plan offers before term start (t0); flag debtors for proactive outreach.
+t1,1st-Semester,0.1602853685628514,0.22360536846362195,Mandatory early-semester (week 4-6) grade check-ins; automatic tutoring referral on low approval/evaluation rate (t1).
+t1,Course/Family,0.07189688431821882,0.10029941880227056,Course-level advising capacity planning; first-generation / low-parental-education student mentoring programs (t0).
+t1,Academic Preparation,0.031869113543560236,0.04445886072079305,"Bridge/remedial modules for students admitted with weak prior grades, assigned before classes begin (t0)."
+t1,Demographics,0.015592074072983821,0.021751651441812746,"Targeted (not diagnostic) outreach for older / displaced / part-time-coded students during orientation (t0) -- context, not a control lever."
+t1,Risk Composite,0.008914387619643652,0.012435975574004748,"Composite risk-score dashboards for advisors, refreshed each horizon, to prioritise caseloads (t0-t2)."
+t2,Financial/Macro,0.16247358412264937,0.33581648735200387,Front-load scholarship/aid decisions & payment-plan offers before term start (t0); flag debtors for proactive outreach.
+t2,2nd-Semester,0.14139499703500513,0.29224917693449937,Momentum-triggered intervention: automatic advising contact when s1->s2 grade or approval trend is negative (t2).
+t2,Other,0.07044093749778736,0.14559430275405236,(unclassified features -- inspect individually before assigning a lever).
+t2,Course/Family,0.05275130213462009,0.10903161324193922,Course-level advising capacity planning; first-generation / low-parental-education student mentoring programs (t0).
+t2,1st-Semester,0.023381050597185506,0.048326269925941454,Mandatory early-semester (week 4-6) grade check-ins; automatic tutoring referral on low approval/evaluation rate (t1).
+t2,Academic Preparation,0.019780274654569066,0.040883829757463096,"Bridge/remedial modules for students admitted with weak prior grades, assigned before classes begin (t0)."
+t2,Demographics,0.007929451142276845,0.016389374578076633,"Targeted (not diagnostic) outreach for older / displaced / part-time-coded students during orientation (t0) -- context, not a control lever."
+t2,Risk Composite,0.005664981935633021,0.011708945456024052,"Composite risk-score dashboards for advisors, refreshed each horizon, to prioritise caseloads (t0-t2)."

@@ -1,0 +1,96 @@
+horizon,feature,family,mean_abs_shap,mean_shap,direction,actionability,actionability_score
+t0,TuitionUpToDate,Financial/Macro,2.1662419135552677,0.2383932597302087,Risk,Institutional Lever,3
+t0,s1_n_assess,1st-Semester,1.1684722569691242,0.0334265631251598,Risk,Supportable via Programs,2
+t0,s1_mean_score,1st-Semester,0.8778712898896278,0.0671843130849444,Risk,Supportable via Programs,2
+t0,financial_risk,Financial/Macro,0.4063451465550191,0.0272812054512091,Risk,Institutional Lever,3
+t0,s1_late_days,1st-Semester,0.1301215381512842,0.0108983378083891,Risk,Supportable via Programs,2
+t0,age_x_financial_risk,Financial/Macro,0.0711114564823124,0.0096642073283632,Risk,Institutional Lever,3
+t0,admission_vs_prevgrade,Academic Preparation,0.0474252793328941,0.0016700830977376,Risk,Supportable via Programs,2
+t0,vulnerability_idx,Financial/Macro,0.036717164419733,0.016163107158117,Risk,Institutional Lever,3
+t0,Scholarship,Financial/Macro,0.0235763519237078,0.0094255960396553,Risk,Institutional Lever,3
+t0,age_x_scholarship,Financial/Macro,0.0233685908670901,0.0006119187606267,Risk,Institutional Lever,3
+t0,s1_n_bank,1st-Semester,0.0049028416133679,-0.0023240084925898,Protective,Supportable via Programs,2
+t0,Debtor,Financial/Macro,0.0,0.0,Protective,Institutional Lever,3
+t0,total_failures,Risk Composite,0.0,0.0,Protective,Supportable via Programs,2
+t0,academic_distress,Risk Composite,0.0,0.0,Protective,Supportable via Programs,2
+t0,gdp_x_debtor,Financial/Macro,0.0,0.0,Protective,Institutional Lever,3
+t0,inflation_x_debtor,Financial/Macro,0.0,0.0,Protective,Institutional Lever,3
+t1,TuitionUpToDate,Financial/Macro,1.7080924709610572,0.3273969150633178,Risk,Institutional Lever,3
+t1,s1_approved,1st-Semester,0.7527303041538471,-0.119671146334998,Protective,Supportable via Programs,2
+t1,s1_enrolled,1st-Semester,0.5546972714951867,0.0938918060342579,Risk,Supportable via Programs,2
+t1,financial_risk,Financial/Macro,0.4932299443544468,0.1011403096402188,Risk,Institutional Lever,3
+t1,s1_mean_score,1st-Semester,0.425247218159724,0.0523142840617605,Risk,Supportable via Programs,2
+t1,s1_grade,1st-Semester,0.4097856252833541,-0.0346813994111977,Protective,Supportable via Programs,2
+t1,age_x_financial_risk,Financial/Macro,0.1297923546939766,0.0250639947869217,Risk,Institutional Lever,3
+t1,s1_late_days,1st-Semester,0.1281467682155732,0.0018150747833792,Risk,Supportable via Programs,2
+t1,s1_approval_rate,1st-Semester,0.1105968558679998,-0.0238527340928595,Protective,Supportable via Programs,2
+t1,s1_eval,1st-Semester,0.1102745617195735,0.0132241913454375,Risk,Supportable via Programs,2
+t1,s1_n_assess,1st-Semester,0.0525430934119177,0.0109057120668655,Risk,Supportable via Programs,2
+t1,admission_vs_prevgrade,Academic Preparation,0.0460137295542476,0.0006839369226884,Risk,Supportable via Programs,2
+t1,vulnerability_idx,Financial/Macro,0.0340006969634504,0.0088912320572616,Risk,Institutional Lever,3
+t1,age_x_scholarship,Financial/Macro,0.0175810077547797,0.0029232612631102,Risk,Institutional Lever,3
+t1,Scholarship,Financial/Macro,0.0170744100388219,0.0068630769301717,Risk,Institutional Lever,3
+t1,academic_distress,Risk Composite,0.0146557381381941,-0.0026324990677319,Protective,Supportable via Programs,2
+t1,s1_pass_efficiency,1st-Semester,0.0091647191869507,-0.0011644276303291,Protective,Supportable via Programs,2
+t1,s1_credit_rate,1st-Semester,0.0054161695329395,-0.0021576708276895,Protective,Supportable via Programs,2
+t1,s1_credited,1st-Semester,0.003275387531588,-0.0020819079480127,Protective,Supportable via Programs,2
+t1,total_failures,Risk Composite,0.0031730371010931,-0.0021758425089457,Protective,Supportable via Programs,2
+t1,s1_n_bank,1st-Semester,0.0015487118523214,-0.0008300384130165,Protective,Supportable via Programs,2
+t1,s1_failed,1st-Semester,0.0011392105946464,-0.0003016401647535,Protective,Supportable via Programs,2
+t1,s1_wo_eval,1st-Semester,0.0,0.0,Protective,Supportable via Programs,2
+t1,Debtor,Financial/Macro,0.0,0.0,Protective,Institutional Lever,3
+t1,gdp_x_debtor,Financial/Macro,0.0,0.0,Protective,Institutional Lever,3
+t1,inflation_x_debtor,Financial/Macro,0.0,0.0,Protective,Institutional Lever,3
+t1,s1_eval_gap,1st-Semester,0.0,0.0,Protective,Supportable via Programs,2
+t1,s1_eval_rate,1st-Semester,0.0,0.0,Protective,Supportable via Programs,2
+t1,eval_participation_gap,Other,0.0,0.0,Protective,Supportable via Programs,2
+t2,TuitionUpToDate,Financial/Macro,1.532827936011663,0.3911702949298853,Risk,Institutional Lever,3
+t2,s2_grade,2nd-Semester,0.4821775524473246,-0.0411096219699816,Protective,Supportable via Programs,2
+t2,s2_approved,2nd-Semester,0.4736447106428952,-0.1912399742375263,Protective,Supportable via Programs,2
+t2,s2_enrolled,2nd-Semester,0.4423598305641258,0.0688651732139305,Risk,Supportable via Programs,2
+t2,financial_risk,Financial/Macro,0.4270129699306247,0.1387938505944732,Risk,Institutional Lever,3
+t2,s2_mean_score,2nd-Semester,0.1689761629406804,-0.0136271889210164,Protective,Supportable via Programs,2
+t2,age_x_financial_risk,Financial/Macro,0.1476263245598676,0.0335952671677114,Risk,Institutional Lever,3
+t2,s1_mean_score,1st-Semester,0.1434080825939228,0.0316209239175402,Risk,Supportable via Programs,2
+t2,s2_eval,2nd-Semester,0.1301690551431764,0.0119708762869549,Risk,Supportable via Programs,2
+t2,s1_grade,1st-Semester,0.1206548279862836,0.0132046006646621,Risk,Supportable via Programs,2
+t2,s2_approval_rate,2nd-Semester,0.1080901680508827,-0.051050537002497,Protective,Supportable via Programs,2
+t2,s1_to_s2_approved_delta,2nd-Semester,0.0858026752510615,-0.0136733910999433,Protective,Supportable via Programs,2
+t2,grade_per_approved,2nd-Semester,0.0664135930878861,-0.0045574293233251,Protective,Supportable via Programs,2
+t2,s1_late_days,1st-Semester,0.0519533259915446,0.0214607268925714,Risk,Supportable via Programs,2
+t2,s2_late_days,2nd-Semester,0.0467454956818198,0.0014797750663132,Risk,Supportable via Programs,2
+t2,s2_pass_efficiency,2nd-Semester,0.0392434092282532,-0.0159351585737483,Protective,Supportable via Programs,2
+t2,admission_vs_prevgrade,Academic Preparation,0.0373576145872687,0.0023234807698209,Risk,Supportable via Programs,2
+t2,s1_to_s2_grade_delta,2nd-Semester,0.035558189234104,0.0050147689159791,Risk,Supportable via Programs,2
+t2,s2_n_assess,2nd-Semester,0.0335669621950791,0.0081114227057542,Risk,Supportable via Programs,2
+t2,momentum_score,2nd-Semester,0.0326667084253489,-0.0072134472506889,Protective,Supportable via Programs,2
+t2,s1_approved,1st-Semester,0.0220243461255684,0.000869544188938,Risk,Supportable via Programs,2
+t2,cum_efficiency,2nd-Semester,0.0192622829969004,-0.0153544207928962,Protective,Supportable via Programs,2
+t2,s1_enrolled,1st-Semester,0.0180095692475245,0.0083777359066628,Risk,Supportable via Programs,2
+t2,academic_distress,Risk Composite,0.0084936741416709,0.0022496296580709,Risk,Supportable via Programs,2
+t2,age_x_scholarship,Financial/Macro,0.0066686286775257,-0.0005537589668506,Protective,Institutional Lever,3
+t2,s1_eval,1st-Semester,0.0050073015059782,3.295193156908058e-05,Risk,Supportable via Programs,2
+t2,Scholarship,Financial/Macro,0.0050019158704162,0.0025832380773862,Risk,Institutional Lever,3
+t2,s1_approval_rate,1st-Semester,0.004405450455945,0.001360195440908,Risk,Supportable via Programs,2
+t2,s1_n_assess,1st-Semester,0.0041055919417075,0.0032578029625938,Risk,Supportable via Programs,2
+t2,s2_credit_rate,2nd-Semester,0.0039910243183335,0.0010779693112784,Risk,Supportable via Programs,2
+t2,vulnerability_idx,Financial/Macro,0.0037866146166124,0.0012889595059108,Risk,Institutional Lever,3
+t2,s2_failed,2nd-Semester,0.0037579132024627,-0.0011882388585471,Protective,Supportable via Programs,2
+t2,total_failures,Risk Composite,0.0028362897295951,-0.0019747848068495,Protective,Supportable via Programs,2
+t2,s1_eval_rate,1st-Semester,0.0015488052704403,0.0003280758939744,Risk,Supportable via Programs,2
+t2,s1_pass_efficiency,1st-Semester,0.001035465745497,0.0006356804971782,Risk,Supportable via Programs,2
+t2,s2_credited,2nd-Semester,0.0009550044408562,0.0003110587622211,Risk,Supportable via Programs,2
+t2,s1_credited,1st-Semester,0.0008160902898716,0.0006258664684715,Risk,Supportable via Programs,2
+t2,s1_credit_rate,1st-Semester,0.0006424034368117,0.0001402511262305,Risk,Supportable via Programs,2
+t2,s1_failed,1st-Semester,0.0003563870779786,-9.1766320886304e-05,Protective,Supportable via Programs,2
+t2,s2_n_bank,2nd-Semester,0.0001313589241176,7.437843225156353e-05,Risk,Supportable via Programs,2
+t2,s1_n_bank,1st-Semester,0.0001291618858929,4.740797299432036e-05,Risk,Supportable via Programs,2
+t2,s2_eval_rate,2nd-Semester,4.581967187368344e-05,4.246686344259479e-05,Risk,Supportable via Programs,2
+t2,s1_wo_eval,1st-Semester,0.0,0.0,Protective,Supportable via Programs,2
+t2,s2_wo_eval,2nd-Semester,0.0,0.0,Protective,Supportable via Programs,2
+t2,Debtor,Financial/Macro,0.0,0.0,Protective,Institutional Lever,3
+t2,s1_eval_gap,1st-Semester,0.0,0.0,Protective,Supportable via Programs,2
+t2,inflation_x_debtor,Financial/Macro,0.0,0.0,Protective,Institutional Lever,3
+t2,gdp_x_debtor,Financial/Macro,0.0,0.0,Protective,Institutional Lever,3
+t2,s2_eval_gap,2nd-Semester,0.0,0.0,Protective,Supportable via Programs,2
+t2,eval_participation_gap,Other,0.0,0.0,Protective,Supportable via Programs,2

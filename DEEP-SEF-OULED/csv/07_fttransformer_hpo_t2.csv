@@ -1,0 +1,4 @@
+trial,cfg,cv_auc
+0,"{'d_token': 16, 'n_blocks': 2, 'n_heads': 2, 'dropout': 0.1, 'lr': 0.001, 'n_epochs': 25, 'batch_size': 256}",0.9769827565579299
+1,"{'d_token': 32, 'n_blocks': 3, 'n_heads': 4, 'dropout': 0.1, 'lr': 0.0005, 'n_epochs': 30, 'batch_size': 256}",0.9788862264564857
+2,"{'d_token': 24, 'n_blocks': 2, 'n_heads': 4, 'dropout': 0.15, 'lr': 0.001, 'n_epochs': 25, 'batch_size': 128}",0.9792368318477085

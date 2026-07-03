@@ -1,0 +1,38 @@
+horizon,feature,family,mean_abs_shap,mean_shap,direction
+t0,TuitionUpToDate,Financial/Macro,0.5162543566073693,-0.0004500053016833295,Protective
+t0,Course,Course/Family,0.449404161768401,0.03942841160939216,Risk
+t0,Scholarship,Financial/Macro,0.3634406567792529,0.033458635072198976,Risk
+t0,Age,Demographics,0.3199870633792661,-0.013139765569482287,Protective
+t0,Gender,Demographics,0.3151923673619226,0.04948260194287498,Risk
+t0,financial_risk,Financial/Macro,0.30178203704365286,0.035027148865911954,Risk
+t0,age_x_scholarship,Financial/Macro,0.20939521716541182,0.013251011257983213,Risk
+t0,PreviousGrade,Academic Preparation,0.20405830834444888,0.0056604520641084875,Risk
+t0,ApplicationMode,Course/Family,0.18205846700811135,-0.002648321453314904,Protective
+t0,unemp_x_age,Financial/Macro,0.17669638571471522,-0.005273112765403909,Protective
+t0,AdmissionGrade,Academic Preparation,0.1720998309347901,0.01338396442020394,Risk
+t0,admission_vs_prevgrade,Academic Preparation,0.13412550790422972,-0.005395086332040862,Protective
+t0,age_x_financial_risk,Financial/Macro,0.12309459479772415,-0.008326530802133652,Protective
+t0,MotherOcc,Course/Family,0.10350203147663163,-0.0013027736556451518,Protective
+t0,parent_occ_avg,Course/Family,0.09391419331861774,0.00859738247185834,Risk
+t0,Displaced,Course/Family,0.0800095178781542,-0.0034715614435043,Protective
+t0,MotherQual,Course/Family,0.07666473032340904,0.013943111036607326,Risk
+t0,vulnerability_idx,Financial/Macro,0.07469567697358787,0.0060372111757595465,Risk
+t0,gdp_x_tuition,Financial/Macro,0.07284083871602595,-0.019726235503613156,Protective
+t0,UnempRate,Financial/Macro,0.07238266956418068,-0.004608358080173991,Protective
+t0,parent_qual_avg,Course/Family,0.06879459708045264,-0.008345829856803325,Protective
+t0,FatherQual,Course/Family,0.06571606312865685,-0.0036152534966869647,Protective
+t0,ApplicationOrder,Course/Family,0.060034301120166646,0.0014768304277032697,Risk
+t0,FatherOcc,Course/Family,0.04720204676417823,0.004491040563260423,Risk
+t0,MaritalStatus,Demographics,0.04554038396756195,-0.0015757592657945788,Protective
+t0,GDP,Financial/Macro,0.04380036082756275,-0.0007205333444645036,Protective
+t0,Nationality,Demographics,0.030313481224360218,-0.001744215781811167,Protective
+t0,Inflation,Financial/Macro,0.024420309940805338,0.00030471882299646405,Risk
+t0,Attendance,Other,0.024338192715996028,-0.0028332477287308496,Protective
+t0,PrevQual,Course/Family,0.018727827275603445,0.0011887905897543995,Risk
+t0,gdp_x_debtor,Financial/Macro,0.016245170289086463,-0.00013659384125421268,Protective
+t0,inflation_x_debtor,Financial/Macro,0.01590797003501031,-0.0007149543520280265,Protective
+t0,International,Demographics,0.007756052602860747,-0.0006362910545015961,Protective
+t0,Debtor,Financial/Macro,0.0020109162738936293,0.0012115043513993558,Risk
+t0,SpecialNeeds,Demographics,0.0,0.0,Protective
+t0,total_failures,Risk Composite,0.0,0.0,Protective
+t0,academic_distress,Risk Composite,0.0,0.0,Protective

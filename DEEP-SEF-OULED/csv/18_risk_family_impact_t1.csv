@@ -1,0 +1,8 @@
+horizon,family,mean_abs_shap
+t1,Other,0.23326605511688822
+t1,Financial/Macro,0.19499865847923845
+t1,1st-Semester,0.1602853685628514
+t1,Course/Family,0.07189688431821882
+t1,Academic Preparation,0.031869113543560236
+t1,Demographics,0.015592074072983821
+t1,Risk Composite,0.008914387619643652

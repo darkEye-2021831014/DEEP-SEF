@@ -1,0 +1,727 @@
+test_index,archetype_id,archetype_label,dropout_probability,true_label
+0,1,Low-Risk: Academic Preparation + Other,0.13220991027279863,0
+1,1,Low-Risk: Academic Preparation + Other,0.15875413945578992,0
+2,1,Low-Risk: Academic Preparation + Other,0.3648943481131793,1
+3,1,Low-Risk: Academic Preparation + Other,0.16337562640346148,0
+4,1,Low-Risk: Academic Preparation + Other,0.6517450000541811,0
+5,1,Low-Risk: Academic Preparation + Other,0.1098706441331039,0
+6,1,Low-Risk: Academic Preparation + Other,0.14661087140567644,0
+7,3,High-Risk: 2nd-Semester + Risk Composite,0.9145979600573255,1
+8,2,Low-Risk: Other,0.35492645852009086,0
+9,0,High-Risk: 2nd-Semester + Financial/Macro,0.7052037532317853,1
+10,1,Low-Risk: Academic Preparation + Other,0.13925893264269407,0
+11,2,Low-Risk: Other,0.1272170206779217,0
+12,1,Low-Risk: Academic Preparation + Other,0.13356152315313607,0
+13,3,High-Risk: 2nd-Semester + Risk Composite,0.9134870448874138,1
+14,2,Low-Risk: Other,0.20339718602031984,0
+15,2,Low-Risk: Other,0.11011470662959569,0
+16,1,Low-Risk: Academic Preparation + Other,0.18395468218662847,0
+17,1,Low-Risk: Academic Preparation + Other,0.12608395502238448,0
+18,1,Low-Risk: Academic Preparation + Other,0.1346396794833672,0
+19,1,Low-Risk: Academic Preparation + Other,0.10770954389255498,0
+20,1,Low-Risk: Academic Preparation + Other,0.16025778532532356,0
+21,2,Low-Risk: Other,0.5270093109951927,1
+22,1,Low-Risk: Academic Preparation + Other,0.13549748053857152,0
+23,1,Low-Risk: Academic Preparation + Other,0.16905463953953456,0
+24,1,Low-Risk: Academic Preparation + Other,0.18558271080757194,0
+25,0,High-Risk: 2nd-Semester + Financial/Macro,0.7732397160290513,1
+26,3,High-Risk: 2nd-Semester + Risk Composite,0.808042114293743,1
+27,3,High-Risk: 2nd-Semester + Risk Composite,0.9131116366917718,1
+28,0,High-Risk: 2nd-Semester + Financial/Macro,0.9079086417362874,1
+29,1,Low-Risk: Academic Preparation + Other,0.3385703695750948,0
+30,1,Low-Risk: Academic Preparation + Other,0.3749317338233824,0
+31,1,Low-Risk: Academic Preparation + Other,0.4091728383209971,0
+32,3,High-Risk: 2nd-Semester + Risk Composite,0.9150714010926024,1
+33,1,Low-Risk: Academic Preparation + Other,0.1927760215062934,1
+34,3,High-Risk: 2nd-Semester + Risk Composite,0.9142606426334693,1
+35,1,Low-Risk: Academic Preparation + Other,0.17685717023259084,0
+36,3,High-Risk: 2nd-Semester + Risk Composite,0.9130109068865999,1
+37,2,Low-Risk: Other,0.16218019457310062,0
+38,1,Low-Risk: Academic Preparation + Other,0.13498078141412517,0
+39,3,High-Risk: 2nd-Semester + Risk Composite,0.9150306227834725,1
+40,1,Low-Risk: Academic Preparation + Other,0.12977951985745548,0
+41,3,High-Risk: 2nd-Semester + Risk Composite,0.9150015581886857,1
+42,1,Low-Risk: Academic Preparation + Other,0.10457458885339284,0
+43,2,Low-Risk: Other,0.12356897150507075,0
+44,1,Low-Risk: Academic Preparation + Other,0.10873378954847986,0
+45,3,High-Risk: 2nd-Semester + Risk Composite,0.9147860835600164,1
+46,0,High-Risk: 2nd-Semester + Financial/Macro,0.9155272004629508,1
+47,1,Low-Risk: Academic Preparation + Other,0.14599648129950274,0
+48,0,High-Risk: 2nd-Semester + Financial/Macro,0.9158620775039004,1
+49,2,Low-Risk: Other,0.1522782213509659,0
+50,3,High-Risk: 2nd-Semester + Risk Composite,0.9150774347608936,1
+51,2,Low-Risk: Other,0.14215664633968997,0
+52,3,High-Risk: 2nd-Semester + Risk Composite,0.9141581628300566,1
+53,2,Low-Risk: Other,0.405047094948426,0
+54,1,Low-Risk: Academic Preparation + Other,0.15750951367594276,0
+55,2,Low-Risk: Other,0.10955386488957933,0
+56,3,High-Risk: 2nd-Semester + Risk Composite,0.8033351820813828,1
+57,1,Low-Risk: Academic Preparation + Other,0.13832048524641266,0
+58,1,Low-Risk: Academic Preparation + Other,0.14456536127774544,0
+59,2,Low-Risk: Other,0.13547780370174564,0
+60,1,Low-Risk: Academic Preparation + Other,0.7324756379617248,1
+61,1,Low-Risk: Academic Preparation + Other,0.15965548433248708,0
+62,1,Low-Risk: Academic Preparation + Other,0.1366069907453582,0
+63,1,Low-Risk: Academic Preparation + Other,0.42575080110229774,1
+64,3,High-Risk: 2nd-Semester + Risk Composite,0.9142174517773495,1
+65,2,Low-Risk: Other,0.11899257166794776,0
+66,1,Low-Risk: Academic Preparation + Other,0.11126336386884529,0
+67,1,Low-Risk: Academic Preparation + Other,0.1714774192138274,0
+68,1,Low-Risk: Academic Preparation + Other,0.1513584361321184,0
+69,3,High-Risk: 2nd-Semester + Risk Composite,0.9155859639253172,1
+70,1,Low-Risk: Academic Preparation + Other,0.4686752758807883,1
+71,1,Low-Risk: Academic Preparation + Other,0.15927457950817772,0
+72,0,High-Risk: 2nd-Semester + Financial/Macro,0.9161707272937971,1
+73,2,Low-Risk: Other,0.15856283748155045,0
+74,2,Low-Risk: Other,0.24265388717963504,1
+75,0,High-Risk: 2nd-Semester + Financial/Macro,0.9105222338972223,1
+76,2,Low-Risk: Other,0.14150029658338137,0
+77,1,Low-Risk: Academic Preparation + Other,0.11693298180807322,0
+78,2,Low-Risk: Other,0.3536168164857831,0
+79,1,Low-Risk: Academic Preparation + Other,0.1259513595071327,0
+80,0,High-Risk: 2nd-Semester + Financial/Macro,0.9160755124663313,1
+81,1,Low-Risk: Academic Preparation + Other,0.15617742558384742,1
+82,3,High-Risk: 2nd-Semester + Risk Composite,0.9161467411353801,1
+83,1,Low-Risk: Academic Preparation + Other,0.14580556272680123,0
+84,1,Low-Risk: Academic Preparation + Other,0.5059177580751368,0
+85,1,Low-Risk: Academic Preparation + Other,0.17675118805718676,0
+86,0,High-Risk: 2nd-Semester + Financial/Macro,0.5222474807319483,0
+87,1,Low-Risk: Academic Preparation + Other,0.1387690155286082,0
+88,1,Low-Risk: Academic Preparation + Other,0.1164938349268226,0
+89,2,Low-Risk: Other,0.13842041548505415,0
+90,2,Low-Risk: Other,0.15150306543406367,0
+91,1,Low-Risk: Academic Preparation + Other,0.14962800350915623,0
+92,3,High-Risk: 2nd-Semester + Risk Composite,0.9148322482249798,1
+93,2,Low-Risk: Other,0.14729124678511535,0
+94,1,Low-Risk: Academic Preparation + Other,0.1515486875760056,0
+95,1,Low-Risk: Academic Preparation + Other,0.20994702139060764,0
+96,1,Low-Risk: Academic Preparation + Other,0.1192343161755115,0
+97,2,Low-Risk: Other,0.11802129925705798,0
+98,2,Low-Risk: Other,0.1398581909505745,0
+99,3,High-Risk: 2nd-Semester + Risk Composite,0.9135271612072365,1
+100,1,Low-Risk: Academic Preparation + Other,0.3740034091410828,0
+101,2,Low-Risk: Other,0.10329947091733895,0
+102,1,Low-Risk: Academic Preparation + Other,0.12613457435059924,1
+103,0,High-Risk: 2nd-Semester + Financial/Macro,0.9113890064151821,1
+104,1,Low-Risk: Academic Preparation + Other,0.3101044317948887,0
+105,1,Low-Risk: Academic Preparation + Other,0.6383292542244879,1
+106,1,Low-Risk: Academic Preparation + Other,0.10274907595896879,0
+107,3,High-Risk: 2nd-Semester + Risk Composite,0.9108128613044327,1
+108,1,Low-Risk: Academic Preparation + Other,0.562462692242073,1
+109,1,Low-Risk: Academic Preparation + Other,0.11257136689500881,0
+110,0,High-Risk: 2nd-Semester + Financial/Macro,0.8969809843538955,1
+111,2,Low-Risk: Other,0.11333577523501083,0
+112,2,Low-Risk: Other,0.44273165572187756,0
+113,1,Low-Risk: Academic Preparation + Other,0.13416863496187367,0
+114,2,Low-Risk: Other,0.13098185217700825,0
+115,0,High-Risk: 2nd-Semester + Financial/Macro,0.7073499803127938,1
+116,2,Low-Risk: Other,0.12793934741328486,0
+117,0,High-Risk: 2nd-Semester + Financial/Macro,0.900284003090052,1
+118,0,High-Risk: 2nd-Semester + Financial/Macro,0.9163677531618372,1
+119,2,Low-Risk: Other,0.677218112604636,1
+120,1,Low-Risk: Academic Preparation + Other,0.10323534540308726,0
+121,2,Low-Risk: Other,0.6721579568739187,1
+122,3,High-Risk: 2nd-Semester + Risk Composite,0.9150019947098371,1
+123,3,High-Risk: 2nd-Semester + Risk Composite,0.9155074227858176,1
+124,3,High-Risk: 2nd-Semester + Risk Composite,0.9142121111456114,1
+125,1,Low-Risk: Academic Preparation + Other,0.18308957218753397,0
+126,1,Low-Risk: Academic Preparation + Other,0.16064635715463907,0
+127,3,High-Risk: 2nd-Semester + Risk Composite,0.9145979600573255,1
+128,1,Low-Risk: Academic Preparation + Other,0.1199148745459932,0
+129,0,High-Risk: 2nd-Semester + Financial/Macro,0.9159851792936564,1
+130,1,Low-Risk: Academic Preparation + Other,0.11166987599902142,0
+131,1,Low-Risk: Academic Preparation + Other,0.13297073845714644,0
+132,1,Low-Risk: Academic Preparation + Other,0.19823522405311758,0
+133,1,Low-Risk: Academic Preparation + Other,0.14884937207179497,0
+134,3,High-Risk: 2nd-Semester + Risk Composite,0.9150011619130308,1
+135,0,High-Risk: 2nd-Semester + Financial/Macro,0.9146318213006072,1
+136,3,High-Risk: 2nd-Semester + Risk Composite,0.8996995814969819,1
+137,2,Low-Risk: Other,0.32697391577366886,0
+138,3,High-Risk: 2nd-Semester + Risk Composite,0.9102814324850038,1
+139,3,High-Risk: 2nd-Semester + Risk Composite,0.9112977708032843,1
+140,1,Low-Risk: Academic Preparation + Other,0.22499672444007926,0
+141,3,High-Risk: 2nd-Semester + Risk Composite,0.9121584338378567,1
+142,1,Low-Risk: Academic Preparation + Other,0.11780902057091196,0
+143,0,High-Risk: 2nd-Semester + Financial/Macro,0.9153327004777777,1
+144,1,Low-Risk: Academic Preparation + Other,0.1641573177882601,0
+145,0,High-Risk: 2nd-Semester + Financial/Macro,0.6060558921017323,1
+146,1,Low-Risk: Academic Preparation + Other,0.17520394709398335,0
+147,1,Low-Risk: Academic Preparation + Other,0.144628622059322,0
+148,0,High-Risk: 2nd-Semester + Financial/Macro,0.7655777216387185,1
+149,1,Low-Risk: Academic Preparation + Other,0.5296469759957722,0
+150,2,Low-Risk: Other,0.25445937017611453,0
+151,1,Low-Risk: Academic Preparation + Other,0.10739872746076341,0
+152,2,Low-Risk: Other,0.10333344665201652,0
+153,1,Low-Risk: Academic Preparation + Other,0.3551063678475734,0
+154,2,Low-Risk: Other,0.10419953345956164,0
+155,1,Low-Risk: Academic Preparation + Other,0.10853790885595485,0
+156,1,Low-Risk: Academic Preparation + Other,0.10348288825253003,0
+157,1,Low-Risk: Academic Preparation + Other,0.12199098328419712,0
+158,2,Low-Risk: Other,0.13466287791635784,0
+159,0,High-Risk: 2nd-Semester + Financial/Macro,0.6663108809134034,0
+160,1,Low-Risk: Academic Preparation + Other,0.13859336661890545,0
+161,3,High-Risk: 2nd-Semester + Risk Composite,0.9134580388552836,1
+162,2,Low-Risk: Other,0.1754139198793951,0
+163,3,High-Risk: 2nd-Semester + Risk Composite,0.8521022785543055,1
+164,2,Low-Risk: Other,0.13315259621242298,0
+165,1,Low-Risk: Academic Preparation + Other,0.14440880791328586,0
+166,1,Low-Risk: Academic Preparation + Other,0.31551337744912145,0
+167,0,High-Risk: 2nd-Semester + Financial/Macro,0.8716708887210437,1
+168,3,High-Risk: 2nd-Semester + Risk Composite,0.9088636638611406,1
+169,1,Low-Risk: Academic Preparation + Other,0.5488601725653353,0
+170,0,High-Risk: 2nd-Semester + Financial/Macro,0.9117128666169011,1
+171,1,Low-Risk: Academic Preparation + Other,0.15399870008652522,0
+172,0,High-Risk: 2nd-Semester + Financial/Macro,0.9128541967280303,1
+173,1,Low-Risk: Academic Preparation + Other,0.11736178382019823,0
+174,2,Low-Risk: Other,0.14751504122733647,0
+175,3,High-Risk: 2nd-Semester + Risk Composite,0.9161780949535397,1
+176,0,High-Risk: 2nd-Semester + Financial/Macro,0.6491337756648982,0
+177,3,High-Risk: 2nd-Semester + Risk Composite,0.9128437910096122,1
+178,0,High-Risk: 2nd-Semester + Financial/Macro,0.5237067917167013,0
+179,2,Low-Risk: Other,0.10509311414133585,0
+180,3,High-Risk: 2nd-Semester + Risk Composite,0.9017930173517106,1
+181,0,High-Risk: 2nd-Semester + Financial/Macro,0.9161707272937971,1
+182,1,Low-Risk: Academic Preparation + Other,0.14195916202077208,0
+183,2,Low-Risk: Other,0.14148854361679886,0
+184,3,High-Risk: 2nd-Semester + Risk Composite,0.914710055362961,1
+185,1,Low-Risk: Academic Preparation + Other,0.13368852804560188,0
+186,1,Low-Risk: Academic Preparation + Other,0.12391475342624436,0
+187,3,High-Risk: 2nd-Semester + Risk Composite,0.9137257703375721,1
+188,3,High-Risk: 2nd-Semester + Risk Composite,0.910317617778089,1
+189,0,High-Risk: 2nd-Semester + Financial/Macro,0.8387467914262596,1
+190,1,Low-Risk: Academic Preparation + Other,0.1073814001478418,1
+191,3,High-Risk: 2nd-Semester + Risk Composite,0.8894442454750333,1
+192,1,Low-Risk: Academic Preparation + Other,0.11489450031180239,0
+193,0,High-Risk: 2nd-Semester + Financial/Macro,0.9158780115981918,1
+194,3,High-Risk: 2nd-Semester + Risk Composite,0.9156414584786666,1
+195,2,Low-Risk: Other,0.12630257147767637,0
+196,1,Low-Risk: Academic Preparation + Other,0.10525077850147527,0
+197,3,High-Risk: 2nd-Semester + Risk Composite,0.5333622722088952,0
+198,1,Low-Risk: Academic Preparation + Other,0.13514162422633572,0
+199,1,Low-Risk: Academic Preparation + Other,0.11720062341884074,0
+200,3,High-Risk: 2nd-Semester + Risk Composite,0.9160135224355468,1
+201,0,High-Risk: 2nd-Semester + Financial/Macro,0.9124130906948774,1
+202,3,High-Risk: 2nd-Semester + Risk Composite,0.9144319112819939,1
+203,1,Low-Risk: Academic Preparation + Other,0.12321020860287854,0
+204,3,High-Risk: 2nd-Semester + Risk Composite,0.7767401953575063,1
+205,1,Low-Risk: Academic Preparation + Other,0.1420523562762553,0
+206,3,High-Risk: 2nd-Semester + Risk Composite,0.912472667282774,1
+207,1,Low-Risk: Academic Preparation + Other,0.12938706685500598,0
+208,1,Low-Risk: Academic Preparation + Other,0.11998254449213314,0
+209,1,Low-Risk: Academic Preparation + Other,0.1153645475483189,0
+210,1,Low-Risk: Academic Preparation + Other,0.14669045118675372,0
+211,1,Low-Risk: Academic Preparation + Other,0.1758258224187384,0
+212,0,High-Risk: 2nd-Semester + Financial/Macro,0.9158506537021852,1
+213,1,Low-Risk: Academic Preparation + Other,0.14607596250715704,0
+214,3,High-Risk: 2nd-Semester + Risk Composite,0.9098810357318979,1
+215,1,Low-Risk: Academic Preparation + Other,0.20928952798642642,0
+216,1,Low-Risk: Academic Preparation + Other,0.14447783533123615,0
+217,2,Low-Risk: Other,0.20701089209495843,0
+218,1,Low-Risk: Academic Preparation + Other,0.11396515386461518,0
+219,2,Low-Risk: Other,0.511309730074186,1
+220,2,Low-Risk: Other,0.10772081156556358,0
+221,3,High-Risk: 2nd-Semester + Risk Composite,0.7276703589394258,0
+222,1,Low-Risk: Academic Preparation + Other,0.15285002235307085,0
+223,2,Low-Risk: Other,0.2849644496999341,0
+224,1,Low-Risk: Academic Preparation + Other,0.16870923500999344,0
+225,1,Low-Risk: Academic Preparation + Other,0.1053685981403307,0
+226,2,Low-Risk: Other,0.384552958768433,0
+227,1,Low-Risk: Academic Preparation + Other,0.10322805603791711,0
+228,2,Low-Risk: Other,0.15973544087158517,0
+229,1,Low-Risk: Academic Preparation + Other,0.11500405248233325,0
+230,1,Low-Risk: Academic Preparation + Other,0.8262950467701687,1
+231,3,High-Risk: 2nd-Semester + Risk Composite,0.9073604894335215,1
+232,3,High-Risk: 2nd-Semester + Risk Composite,0.8532503015664127,1
+233,1,Low-Risk: Academic Preparation + Other,0.16966418184275076,0
+234,2,Low-Risk: Other,0.14566869458556392,0
+235,1,Low-Risk: Academic Preparation + Other,0.34893917532078134,0
+236,3,High-Risk: 2nd-Semester + Risk Composite,0.9054954617896243,1
+237,0,High-Risk: 2nd-Semester + Financial/Macro,0.72697299909199,1
+238,1,Low-Risk: Academic Preparation + Other,0.32301919875561685,0
+239,0,High-Risk: 2nd-Semester + Financial/Macro,0.9154887867642116,1
+240,1,Low-Risk: Academic Preparation + Other,0.11784231573447537,0
+241,2,Low-Risk: Other,0.3282433999377019,0
+242,2,Low-Risk: Other,0.17789658955052295,0
+243,1,Low-Risk: Academic Preparation + Other,0.13702654283750637,0
+244,3,High-Risk: 2nd-Semester + Risk Composite,0.9108789315705147,1
+245,1,Low-Risk: Academic Preparation + Other,0.13642206407165985,0
+246,1,Low-Risk: Academic Preparation + Other,0.2778048807828788,0
+247,1,Low-Risk: Academic Preparation + Other,0.14398412022254917,0
+248,1,Low-Risk: Academic Preparation + Other,0.1154637332455861,0
+249,3,High-Risk: 2nd-Semester + Risk Composite,0.9120077324424002,1
+250,1,Low-Risk: Academic Preparation + Other,0.16240381738915102,0
+251,1,Low-Risk: Academic Preparation + Other,0.11485316142878081,0
+252,1,Low-Risk: Academic Preparation + Other,0.3296461189149103,0
+253,0,High-Risk: 2nd-Semester + Financial/Macro,0.764493432551967,1
+254,0,High-Risk: 2nd-Semester + Financial/Macro,0.6530405471029429,1
+255,1,Low-Risk: Academic Preparation + Other,0.16512686961261286,0
+256,0,High-Risk: 2nd-Semester + Financial/Macro,0.9150267550393105,1
+257,1,Low-Risk: Academic Preparation + Other,0.3357988117458454,0
+258,3,High-Risk: 2nd-Semester + Risk Composite,0.9141238551500795,1
+259,3,High-Risk: 2nd-Semester + Risk Composite,0.6606058992565982,1
+260,1,Low-Risk: Academic Preparation + Other,0.37154943732331613,1
+261,3,High-Risk: 2nd-Semester + Risk Composite,0.9099915049348998,1
+262,2,Low-Risk: Other,0.5699316138927656,0
+263,1,Low-Risk: Academic Preparation + Other,0.14158360437227868,0
+264,2,Low-Risk: Other,0.11371186187887515,0
+265,1,Low-Risk: Academic Preparation + Other,0.1085250109624578,0
+266,1,Low-Risk: Academic Preparation + Other,0.13952051825093476,0
+267,1,Low-Risk: Academic Preparation + Other,0.10847355705750737,0
+268,3,High-Risk: 2nd-Semester + Risk Composite,0.9141688981370935,1
+269,1,Low-Risk: Academic Preparation + Other,0.1366745217214733,0
+270,0,High-Risk: 2nd-Semester + Financial/Macro,0.9097581062978062,1
+271,2,Low-Risk: Other,0.11669674361173558,0
+272,0,High-Risk: 2nd-Semester + Financial/Macro,0.9163372432381335,1
+273,1,Low-Risk: Academic Preparation + Other,0.10519344217844226,0
+274,1,Low-Risk: Academic Preparation + Other,0.12144802542631351,0
+275,2,Low-Risk: Other,0.3486918620602071,0
+276,1,Low-Risk: Academic Preparation + Other,0.5951701657939888,0
+277,2,Low-Risk: Other,0.39099816501831486,0
+278,1,Low-Risk: Academic Preparation + Other,0.18105302095394368,1
+279,0,High-Risk: 2nd-Semester + Financial/Macro,0.915718997050204,1
+280,3,High-Risk: 2nd-Semester + Risk Composite,0.9045728591711698,1
+281,0,High-Risk: 2nd-Semester + Financial/Macro,0.9116740860454203,1
+282,1,Low-Risk: Academic Preparation + Other,0.16342600329461063,0
+283,2,Low-Risk: Other,0.11683581301969752,0
+284,1,Low-Risk: Academic Preparation + Other,0.1882236060790098,0
+285,1,Low-Risk: Academic Preparation + Other,0.3325568964384419,0
+286,3,High-Risk: 2nd-Semester + Risk Composite,0.9144506012308784,1
+287,1,Low-Risk: Academic Preparation + Other,0.7374187465842128,0
+288,2,Low-Risk: Other,0.42270695669402286,0
+289,1,Low-Risk: Academic Preparation + Other,0.18614209370758653,0
+290,1,Low-Risk: Academic Preparation + Other,0.16795229800953868,0
+291,2,Low-Risk: Other,0.10322243997167903,0
+292,1,Low-Risk: Academic Preparation + Other,0.4563932438572505,1
+293,0,High-Risk: 2nd-Semester + Financial/Macro,0.7375115515961175,1
+294,3,High-Risk: 2nd-Semester + Risk Composite,0.9049526195065357,1
+295,2,Low-Risk: Other,0.4509254488120908,0
+296,1,Low-Risk: Academic Preparation + Other,0.24914797690712917,0
+297,3,High-Risk: 2nd-Semester + Risk Composite,0.9145122547097065,1
+298,1,Low-Risk: Academic Preparation + Other,0.11536578816764576,0
+299,1,Low-Risk: Academic Preparation + Other,0.2092215719510598,0
+300,2,Low-Risk: Other,0.13135751744693244,0
+301,1,Low-Risk: Academic Preparation + Other,0.10357659559751321,0
+302,0,High-Risk: 2nd-Semester + Financial/Macro,0.6258813735939731,1
+303,1,Low-Risk: Academic Preparation + Other,0.10233287973203456,0
+304,0,High-Risk: 2nd-Semester + Financial/Macro,0.9158543376895276,1
+305,3,High-Risk: 2nd-Semester + Risk Composite,0.9017063356773257,1
+306,1,Low-Risk: Academic Preparation + Other,0.3948014734872229,0
+307,0,High-Risk: 2nd-Semester + Financial/Macro,0.9098708511398863,1
+308,3,High-Risk: 2nd-Semester + Risk Composite,0.9160451945939817,1
+309,1,Low-Risk: Academic Preparation + Other,0.15605869387981894,0
+310,1,Low-Risk: Academic Preparation + Other,0.134090141641788,0
+311,2,Low-Risk: Other,0.19851208643629048,0
+312,0,High-Risk: 2nd-Semester + Financial/Macro,0.7152049654843817,1
+313,3,High-Risk: 2nd-Semester + Risk Composite,0.9155440087101877,1
+314,2,Low-Risk: Other,0.1508892016252182,0
+315,1,Low-Risk: Academic Preparation + Other,0.11772529120934416,0
+316,3,High-Risk: 2nd-Semester + Risk Composite,0.8925534103658735,1
+317,2,Low-Risk: Other,0.43487889013919934,0
+318,3,High-Risk: 2nd-Semester + Risk Composite,0.9130490101787525,1
+319,1,Low-Risk: Academic Preparation + Other,0.1531126929937472,0
+320,3,High-Risk: 2nd-Semester + Risk Composite,0.912478272893963,1
+321,2,Low-Risk: Other,0.1403723884910262,0
+322,3,High-Risk: 2nd-Semester + Risk Composite,0.7335052351457249,1
+323,0,High-Risk: 2nd-Semester + Financial/Macro,0.9126645359031437,1
+324,3,High-Risk: 2nd-Semester + Risk Composite,0.7709007792458363,1
+325,1,Low-Risk: Academic Preparation + Other,0.21606634582818232,0
+326,1,Low-Risk: Academic Preparation + Other,0.29830997354514976,0
+327,1,Low-Risk: Academic Preparation + Other,0.35777601899195227,0
+328,0,High-Risk: 2nd-Semester + Financial/Macro,0.9138246062663109,1
+329,1,Low-Risk: Academic Preparation + Other,0.18714589973197407,0
+330,0,High-Risk: 2nd-Semester + Financial/Macro,0.6077428001571129,1
+331,1,Low-Risk: Academic Preparation + Other,0.14025981428184855,0
+332,3,High-Risk: 2nd-Semester + Risk Composite,0.9041777684534054,1
+333,2,Low-Risk: Other,0.11150866702772189,0
+334,2,Low-Risk: Other,0.1054864510727771,0
+335,0,High-Risk: 2nd-Semester + Financial/Macro,0.9160637745915189,1
+336,3,High-Risk: 2nd-Semester + Risk Composite,0.9121888253892205,1
+337,1,Low-Risk: Academic Preparation + Other,0.1095502575905972,0
+338,1,Low-Risk: Academic Preparation + Other,0.11105981304760955,1
+339,1,Low-Risk: Academic Preparation + Other,0.13244100395210304,0
+340,2,Low-Risk: Other,0.10911068632073967,0
+341,0,High-Risk: 2nd-Semester + Financial/Macro,0.9156868889391027,1
+342,2,Low-Risk: Other,0.1684333176404801,0
+343,0,High-Risk: 2nd-Semester + Financial/Macro,0.9129465475158524,1
+344,2,Low-Risk: Other,0.13202008837920887,0
+345,2,Low-Risk: Other,0.10800471273009855,0
+346,0,High-Risk: 2nd-Semester + Financial/Macro,0.8196361456087939,1
+347,1,Low-Risk: Academic Preparation + Other,0.14886626818446047,0
+348,1,Low-Risk: Academic Preparation + Other,0.16230076916313024,0
+349,3,High-Risk: 2nd-Semester + Risk Composite,0.7467552787225458,1
+350,1,Low-Risk: Academic Preparation + Other,0.13945232064472565,0
+351,1,Low-Risk: Academic Preparation + Other,0.344962376080125,0
+352,3,High-Risk: 2nd-Semester + Risk Composite,0.9143645542655829,1
+353,1,Low-Risk: Academic Preparation + Other,0.12343612181417057,0
+354,1,Low-Risk: Academic Preparation + Other,0.10841669669116927,0
+355,3,High-Risk: 2nd-Semester + Risk Composite,0.5808314968046833,1
+356,1,Low-Risk: Academic Preparation + Other,0.1142702334582504,0
+357,3,High-Risk: 2nd-Semester + Risk Composite,0.9151498380044489,1
+358,1,Low-Risk: Academic Preparation + Other,0.14971014110292993,0
+359,1,Low-Risk: Academic Preparation + Other,0.14092074230646578,0
+360,3,High-Risk: 2nd-Semester + Risk Composite,0.9086615373665086,1
+361,1,Low-Risk: Academic Preparation + Other,0.5263539191823385,0
+362,3,High-Risk: 2nd-Semester + Risk Composite,0.9133935040423217,1
+363,2,Low-Risk: Other,0.13733357845525543,0
+364,2,Low-Risk: Other,0.10775142310177833,0
+365,1,Low-Risk: Academic Preparation + Other,0.39247209060293015,0
+366,1,Low-Risk: Academic Preparation + Other,0.16101438342832566,0
+367,0,High-Risk: 2nd-Semester + Financial/Macro,0.7289242534737267,1
+368,2,Low-Risk: Other,0.2777875372514056,0
+369,3,High-Risk: 2nd-Semester + Risk Composite,0.9149775755640812,1
+370,0,High-Risk: 2nd-Semester + Financial/Macro,0.9150679459401928,1
+371,3,High-Risk: 2nd-Semester + Risk Composite,0.911414446458017,1
+372,1,Low-Risk: Academic Preparation + Other,0.10615054725703447,0
+373,3,High-Risk: 2nd-Semester + Risk Composite,0.90937979093867,1
+374,1,Low-Risk: Academic Preparation + Other,0.11766937940755941,0
+375,1,Low-Risk: Academic Preparation + Other,0.10868420468914633,0
+376,3,High-Risk: 2nd-Semester + Risk Composite,0.9149775755640812,1
+377,1,Low-Risk: Academic Preparation + Other,0.10372725702416377,0
+378,1,Low-Risk: Academic Preparation + Other,0.16930329153884185,0
+379,2,Low-Risk: Other,0.6484448518923932,1
+380,1,Low-Risk: Academic Preparation + Other,0.13685932388124258,0
+381,1,Low-Risk: Academic Preparation + Other,0.12025220313888128,0
+382,3,High-Risk: 2nd-Semester + Risk Composite,0.9115492376894833,1
+383,1,Low-Risk: Academic Preparation + Other,0.13218041415066045,0
+384,1,Low-Risk: Academic Preparation + Other,0.1112850968525683,0
+385,3,High-Risk: 2nd-Semester + Risk Composite,0.9115091903901269,1
+386,3,High-Risk: 2nd-Semester + Risk Composite,0.9126490718075291,1
+387,1,Low-Risk: Academic Preparation + Other,0.1438502861408628,0
+388,2,Low-Risk: Other,0.13964969225038706,0
+389,2,Low-Risk: Other,0.33829109284018316,1
+390,1,Low-Risk: Academic Preparation + Other,0.1453115867296331,0
+391,2,Low-Risk: Other,0.10705958983164918,0
+392,2,Low-Risk: Other,0.1718142562278375,0
+393,3,High-Risk: 2nd-Semester + Risk Composite,0.912251913434614,1
+394,0,High-Risk: 2nd-Semester + Financial/Macro,0.6544857802742239,1
+395,3,High-Risk: 2nd-Semester + Risk Composite,0.915724348646908,1
+396,0,High-Risk: 2nd-Semester + Financial/Macro,0.916467402438906,1
+397,1,Low-Risk: Academic Preparation + Other,0.13904485802395472,0
+398,1,Low-Risk: Academic Preparation + Other,0.17524293067163652,0
+399,1,Low-Risk: Academic Preparation + Other,0.14469426037131825,0
+400,1,Low-Risk: Academic Preparation + Other,0.1282236075006706,0
+401,1,Low-Risk: Academic Preparation + Other,0.18763060234484488,0
+402,1,Low-Risk: Academic Preparation + Other,0.15236204097148134,0
+403,2,Low-Risk: Other,0.12993859351096865,0
+404,1,Low-Risk: Academic Preparation + Other,0.16574978515685537,0
+405,1,Low-Risk: Academic Preparation + Other,0.10626506261815749,0
+406,2,Low-Risk: Other,0.1598833871917956,0
+407,1,Low-Risk: Academic Preparation + Other,0.2588797748688935,0
+408,2,Low-Risk: Other,0.1194135447616924,0
+409,1,Low-Risk: Academic Preparation + Other,0.5017703326457099,1
+410,1,Low-Risk: Academic Preparation + Other,0.16356951033880485,0
+411,1,Low-Risk: Academic Preparation + Other,0.46528234869551865,0
+412,3,High-Risk: 2nd-Semester + Risk Composite,0.9106133172562991,1
+413,3,High-Risk: 2nd-Semester + Risk Composite,0.9107158732983798,1
+414,0,High-Risk: 2nd-Semester + Financial/Macro,0.9164345978368521,1
+415,0,High-Risk: 2nd-Semester + Financial/Macro,0.9160637745915189,1
+416,0,High-Risk: 2nd-Semester + Financial/Macro,0.6639954784132964,1
+417,3,High-Risk: 2nd-Semester + Risk Composite,0.9152031969606027,1
+418,2,Low-Risk: Other,0.15717298035646787,0
+419,3,High-Risk: 2nd-Semester + Risk Composite,0.9154738275959776,1
+420,1,Low-Risk: Academic Preparation + Other,0.12919563011965,0
+421,3,High-Risk: 2nd-Semester + Risk Composite,0.9150080532807192,1
+422,1,Low-Risk: Academic Preparation + Other,0.6998425512933036,0
+423,1,Low-Risk: Academic Preparation + Other,0.1953989095450865,0
+424,3,High-Risk: 2nd-Semester + Risk Composite,0.9152583223202858,1
+425,1,Low-Risk: Academic Preparation + Other,0.1295587473980928,0
+426,3,High-Risk: 2nd-Semester + Risk Composite,0.9117639004539381,1
+427,1,Low-Risk: Academic Preparation + Other,0.13044233295906396,0
+428,3,High-Risk: 2nd-Semester + Risk Composite,0.9144632620766034,1
+429,0,High-Risk: 2nd-Semester + Financial/Macro,0.9164710618880758,1
+430,1,Low-Risk: Academic Preparation + Other,0.1389755636747647,0
+431,3,High-Risk: 2nd-Semester + Risk Composite,0.901792636390139,1
+432,1,Low-Risk: Academic Preparation + Other,0.16648379063350216,0
+433,3,High-Risk: 2nd-Semester + Risk Composite,0.828593051106335,1
+434,1,Low-Risk: Academic Preparation + Other,0.33415000683957685,0
+435,1,Low-Risk: Academic Preparation + Other,0.2951409092156784,0
+436,3,High-Risk: 2nd-Semester + Risk Composite,0.9157522506992593,1
+437,2,Low-Risk: Other,0.11825853146504596,0
+438,2,Low-Risk: Other,0.13096804567934814,0
+439,3,High-Risk: 2nd-Semester + Risk Composite,0.8352239170566603,1
+440,0,High-Risk: 2nd-Semester + Financial/Macro,0.908082621376598,1
+441,0,High-Risk: 2nd-Semester + Financial/Macro,0.9161438245444874,1
+442,1,Low-Risk: Academic Preparation + Other,0.10410471588434046,0
+443,0,High-Risk: 2nd-Semester + Financial/Macro,0.9163412218323912,1
+444,1,Low-Risk: Academic Preparation + Other,0.10319259579454901,0
+445,2,Low-Risk: Other,0.10363608711335144,0
+446,1,Low-Risk: Academic Preparation + Other,0.1931308638047579,1
+447,3,High-Risk: 2nd-Semester + Risk Composite,0.9153716782431468,1
+448,3,High-Risk: 2nd-Semester + Risk Composite,0.9152031969606027,1
+449,1,Low-Risk: Academic Preparation + Other,0.12489984574267646,0
+450,0,High-Risk: 2nd-Semester + Financial/Macro,0.914896874596341,1
+451,1,Low-Risk: Academic Preparation + Other,0.7126787376909107,0
+452,1,Low-Risk: Academic Preparation + Other,0.3011350997113129,0
+453,1,Low-Risk: Academic Preparation + Other,0.4012416762591923,1
+454,2,Low-Risk: Other,0.11353098028778652,0
+455,1,Low-Risk: Academic Preparation + Other,0.12235735688876373,0
+456,2,Low-Risk: Other,0.10436441194549835,0
+457,1,Low-Risk: Academic Preparation + Other,0.15099520808137426,0
+458,3,High-Risk: 2nd-Semester + Risk Composite,0.7962856241686894,0
+459,2,Low-Risk: Other,0.3074086645304153,0
+460,1,Low-Risk: Academic Preparation + Other,0.13525748012525238,0
+461,2,Low-Risk: Other,0.1545152624058184,0
+462,1,Low-Risk: Academic Preparation + Other,0.13511280263744133,0
+463,3,High-Risk: 2nd-Semester + Risk Composite,0.9147163207301184,1
+464,1,Low-Risk: Academic Preparation + Other,0.1307905466555245,0
+465,1,Low-Risk: Academic Preparation + Other,0.10857816276229476,0
+466,3,High-Risk: 2nd-Semester + Risk Composite,0.9149931902719255,1
+467,0,High-Risk: 2nd-Semester + Financial/Macro,0.8782395215879139,1
+468,1,Low-Risk: Academic Preparation + Other,0.1164391505132898,0
+469,1,Low-Risk: Academic Preparation + Other,0.15136186274554472,0
+470,1,Low-Risk: Academic Preparation + Other,0.11967439854822216,0
+471,1,Low-Risk: Academic Preparation + Other,0.17218108281800826,0
+472,1,Low-Risk: Academic Preparation + Other,0.11918044060856635,0
+473,0,High-Risk: 2nd-Semester + Financial/Macro,0.9145390189085769,1
+474,3,High-Risk: 2nd-Semester + Risk Composite,0.6842902330080802,0
+475,3,High-Risk: 2nd-Semester + Risk Composite,0.9133846533887818,1
+476,0,High-Risk: 2nd-Semester + Financial/Macro,0.9140542864429948,1
+477,1,Low-Risk: Academic Preparation + Other,0.12266534913346071,0
+478,1,Low-Risk: Academic Preparation + Other,0.12212349439979449,0
+479,0,High-Risk: 2nd-Semester + Financial/Macro,0.8986291280075849,1
+480,0,High-Risk: 2nd-Semester + Financial/Macro,0.8493794135172944,1
+481,2,Low-Risk: Other,0.2924049432621316,0
+482,1,Low-Risk: Academic Preparation + Other,0.16470922959429055,0
+483,3,High-Risk: 2nd-Semester + Risk Composite,0.9053688314156946,1
+484,3,High-Risk: 2nd-Semester + Risk Composite,0.9138117541443306,1
+485,1,Low-Risk: Academic Preparation + Other,0.17344670102944637,0
+486,1,Low-Risk: Academic Preparation + Other,0.12393597481893588,0
+487,1,Low-Risk: Academic Preparation + Other,0.47397804277783906,0
+488,1,Low-Risk: Academic Preparation + Other,0.10362399930368699,0
+489,2,Low-Risk: Other,0.12509044906446862,0
+490,1,Low-Risk: Academic Preparation + Other,0.10827232974318429,0
+491,3,High-Risk: 2nd-Semester + Risk Composite,0.9153332760970181,1
+492,3,High-Risk: 2nd-Semester + Risk Composite,0.9144135479284459,1
+493,3,High-Risk: 2nd-Semester + Risk Composite,0.9138531854594708,1
+494,2,Low-Risk: Other,0.12477653756254366,0
+495,3,High-Risk: 2nd-Semester + Risk Composite,0.9157001588805593,1
+496,1,Low-Risk: Academic Preparation + Other,0.13826605049760735,0
+497,1,Low-Risk: Academic Preparation + Other,0.14365801728165883,0
+498,2,Low-Risk: Other,0.4416177217445778,1
+499,1,Low-Risk: Academic Preparation + Other,0.14124137052526797,0
+500,1,Low-Risk: Academic Preparation + Other,0.40121353910774354,0
+501,3,High-Risk: 2nd-Semester + Risk Composite,0.91390573891149,1
+502,2,Low-Risk: Other,0.14540176073038588,0
+503,1,Low-Risk: Academic Preparation + Other,0.2281709912257085,0
+504,1,Low-Risk: Academic Preparation + Other,0.10654570494580987,0
+505,1,Low-Risk: Academic Preparation + Other,0.1057349126584109,0
+506,2,Low-Risk: Other,0.1913363736194912,0
+507,2,Low-Risk: Other,0.1322721154323625,0
+508,1,Low-Risk: Academic Preparation + Other,0.1321268915548014,0
+509,2,Low-Risk: Other,0.11526468818016046,0
+510,1,Low-Risk: Academic Preparation + Other,0.12785147328587662,0
+511,1,Low-Risk: Academic Preparation + Other,0.10647614803776784,0
+512,1,Low-Risk: Academic Preparation + Other,0.12505609469132742,0
+513,3,High-Risk: 2nd-Semester + Risk Composite,0.9151332920416041,1
+514,3,High-Risk: 2nd-Semester + Risk Composite,0.9140348382481709,1
+515,1,Low-Risk: Academic Preparation + Other,0.3390680493196687,0
+516,1,Low-Risk: Academic Preparation + Other,0.11222326888681677,0
+517,1,Low-Risk: Academic Preparation + Other,0.3066905558588239,0
+518,1,Low-Risk: Academic Preparation + Other,0.16491883343361122,0
+519,2,Low-Risk: Other,0.10356189463718468,0
+520,1,Low-Risk: Academic Preparation + Other,0.1904131995907093,0
+521,0,High-Risk: 2nd-Semester + Financial/Macro,0.916560255609839,1
+522,1,Low-Risk: Academic Preparation + Other,0.6953712500553723,1
+523,1,Low-Risk: Academic Preparation + Other,0.14287517636813835,0
+524,3,High-Risk: 2nd-Semester + Risk Composite,0.9148197008030305,1
+525,2,Low-Risk: Other,0.30570460900338625,0
+526,3,High-Risk: 2nd-Semester + Risk Composite,0.9105605101907208,1
+527,0,High-Risk: 2nd-Semester + Financial/Macro,0.6557873779924278,1
+528,1,Low-Risk: Academic Preparation + Other,0.1301759680623862,0
+529,1,Low-Risk: Academic Preparation + Other,0.32921304472144564,0
+530,1,Low-Risk: Academic Preparation + Other,0.48689020809148637,0
+531,1,Low-Risk: Academic Preparation + Other,0.16657175276762642,0
+532,1,Low-Risk: Academic Preparation + Other,0.15427188574666825,0
+533,1,Low-Risk: Academic Preparation + Other,0.18502923982615394,0
+534,1,Low-Risk: Academic Preparation + Other,0.13544968453421694,0
+535,1,Low-Risk: Academic Preparation + Other,0.10759188162011477,0
+536,2,Low-Risk: Other,0.349938721732924,0
+537,1,Low-Risk: Academic Preparation + Other,0.10990490292321105,0
+538,1,Low-Risk: Academic Preparation + Other,0.15628920105675254,0
+539,1,Low-Risk: Academic Preparation + Other,0.5594677472760529,1
+540,3,High-Risk: 2nd-Semester + Risk Composite,0.8887988845843956,1
+541,0,High-Risk: 2nd-Semester + Financial/Macro,0.7266263380833733,1
+542,1,Low-Risk: Academic Preparation + Other,0.15507973482662682,1
+543,1,Low-Risk: Academic Preparation + Other,0.10670273702730657,1
+544,2,Low-Risk: Other,0.10621986424241363,0
+545,2,Low-Risk: Other,0.3091214624111205,0
+546,0,High-Risk: 2nd-Semester + Financial/Macro,0.910848546827779,1
+547,2,Low-Risk: Other,0.16342230904912344,0
+548,3,High-Risk: 2nd-Semester + Risk Composite,0.9152633190486983,1
+549,1,Low-Risk: Academic Preparation + Other,0.1545359980805579,0
+550,3,High-Risk: 2nd-Semester + Risk Composite,0.9152844585428029,1
+551,1,Low-Risk: Academic Preparation + Other,0.1467857462899956,0
+552,2,Low-Risk: Other,0.23927720975305983,1
+553,1,Low-Risk: Academic Preparation + Other,0.13805265735899985,0
+554,3,High-Risk: 2nd-Semester + Risk Composite,0.904616968905455,1
+555,1,Low-Risk: Academic Preparation + Other,0.15430173628387253,0
+556,3,High-Risk: 2nd-Semester + Risk Composite,0.9142121111456114,1
+557,3,High-Risk: 2nd-Semester + Risk Composite,0.9150423689414516,1
+558,3,High-Risk: 2nd-Semester + Risk Composite,0.9081579722349691,1
+559,0,High-Risk: 2nd-Semester + Financial/Macro,0.9125299294965566,1
+560,1,Low-Risk: Academic Preparation + Other,0.17167590034499372,0
+561,1,Low-Risk: Academic Preparation + Other,0.20208885098591264,0
+562,0,High-Risk: 2nd-Semester + Financial/Macro,0.9125333053853508,1
+563,1,Low-Risk: Academic Preparation + Other,0.24479615420743847,0
+564,3,High-Risk: 2nd-Semester + Risk Composite,0.9132911202712084,1
+565,2,Low-Risk: Other,0.12427540646541226,0
+566,1,Low-Risk: Academic Preparation + Other,0.14841860788062797,0
+567,3,High-Risk: 2nd-Semester + Risk Composite,0.9151124932523119,1
+568,2,Low-Risk: Other,0.10510939268501769,0
+569,3,High-Risk: 2nd-Semester + Risk Composite,0.915312072607964,1
+570,1,Low-Risk: Academic Preparation + Other,0.10355131857549749,0
+571,1,Low-Risk: Academic Preparation + Other,0.10988523002040557,0
+572,1,Low-Risk: Academic Preparation + Other,0.10700341812612113,0
+573,1,Low-Risk: Academic Preparation + Other,0.10296950297352833,0
+574,2,Low-Risk: Other,0.14050837858142876,0
+575,2,Low-Risk: Other,0.2567647717323405,0
+576,1,Low-Risk: Academic Preparation + Other,0.1385878761396061,0
+577,3,High-Risk: 2nd-Semester + Risk Composite,0.913076909545483,1
+578,1,Low-Risk: Academic Preparation + Other,0.11042715371848695,0
+579,0,High-Risk: 2nd-Semester + Financial/Macro,0.7906564325773512,1
+580,3,High-Risk: 2nd-Semester + Risk Composite,0.914675521808107,1
+581,1,Low-Risk: Academic Preparation + Other,0.25658396538405076,1
+582,0,High-Risk: 2nd-Semester + Financial/Macro,0.916467402438906,1
+583,3,High-Risk: 2nd-Semester + Risk Composite,0.9116718274278091,1
+584,1,Low-Risk: Academic Preparation + Other,0.10279187763544809,0
+585,1,Low-Risk: Academic Preparation + Other,0.1448011433545115,0
+586,0,High-Risk: 2nd-Semester + Financial/Macro,0.9161345128348855,1
+587,1,Low-Risk: Academic Preparation + Other,0.10850031762734734,0
+588,1,Low-Risk: Academic Preparation + Other,0.10609796872121427,0
+589,2,Low-Risk: Other,0.14069660863894456,0
+590,3,High-Risk: 2nd-Semester + Risk Composite,0.9137631654245694,1
+591,3,High-Risk: 2nd-Semester + Risk Composite,0.9155711523794277,1
+592,3,High-Risk: 2nd-Semester + Risk Composite,0.9118671412598306,1
+593,0,High-Risk: 2nd-Semester + Financial/Macro,0.9158834550642849,1
+594,1,Low-Risk: Academic Preparation + Other,0.10293709533297675,0
+595,1,Low-Risk: Academic Preparation + Other,0.1216225883019642,0
+596,3,High-Risk: 2nd-Semester + Risk Composite,0.8108303437364632,1
+597,3,High-Risk: 2nd-Semester + Risk Composite,0.914869242041261,1
+598,1,Low-Risk: Academic Preparation + Other,0.7336361414134039,0
+599,3,High-Risk: 2nd-Semester + Risk Composite,0.9164500944253539,1
+600,1,Low-Risk: Academic Preparation + Other,0.18086928914461645,0
+601,1,Low-Risk: Academic Preparation + Other,0.11317952794867485,0
+602,1,Low-Risk: Academic Preparation + Other,0.14012767821121866,0
+603,1,Low-Risk: Academic Preparation + Other,0.13692175042348992,0
+604,3,High-Risk: 2nd-Semester + Risk Composite,0.9042918515958754,1
+605,1,Low-Risk: Academic Preparation + Other,0.153565377071087,0
+606,0,High-Risk: 2nd-Semester + Financial/Macro,0.8900450485000135,1
+607,1,Low-Risk: Academic Preparation + Other,0.29883414565947397,0
+608,1,Low-Risk: Academic Preparation + Other,0.3559659518853263,0
+609,1,Low-Risk: Academic Preparation + Other,0.10294449166064173,0
+610,1,Low-Risk: Academic Preparation + Other,0.16177938075530335,0
+611,0,High-Risk: 2nd-Semester + Financial/Macro,0.9162296668457796,1
+612,2,Low-Risk: Other,0.12087741170325908,0
+613,2,Low-Risk: Other,0.1176872106720259,0
+614,2,Low-Risk: Other,0.1329264922677735,0
+615,2,Low-Risk: Other,0.16984650226603476,0
+616,1,Low-Risk: Academic Preparation + Other,0.10801797230811418,0
+617,2,Low-Risk: Other,0.15404940747220805,1
+618,0,High-Risk: 2nd-Semester + Financial/Macro,0.9139605907167977,1
+619,1,Low-Risk: Academic Preparation + Other,0.17208567409782827,0
+620,3,High-Risk: 2nd-Semester + Risk Composite,0.9081614204844798,1
+621,1,Low-Risk: Academic Preparation + Other,0.23203841186414,0
+622,0,High-Risk: 2nd-Semester + Financial/Macro,0.8063351206190383,1
+623,1,Low-Risk: Academic Preparation + Other,0.20141433194502925,0
+624,1,Low-Risk: Academic Preparation + Other,0.12141602011909915,0
+625,1,Low-Risk: Academic Preparation + Other,0.3336728320332307,0
+626,2,Low-Risk: Other,0.12607906059332077,0
+627,0,High-Risk: 2nd-Semester + Financial/Macro,0.8507443722683234,1
+628,0,High-Risk: 2nd-Semester + Financial/Macro,0.9066961198696751,1
+629,2,Low-Risk: Other,0.5612100561227762,1
+630,0,High-Risk: 2nd-Semester + Financial/Macro,0.9160637745915189,1
+631,3,High-Risk: 2nd-Semester + Risk Composite,0.9118729879414981,1
+632,3,High-Risk: 2nd-Semester + Risk Composite,0.9137215192065531,1
+633,3,High-Risk: 2nd-Semester + Risk Composite,0.9142606426334693,1
+634,1,Low-Risk: Academic Preparation + Other,0.22605874160345416,0
+635,1,Low-Risk: Academic Preparation + Other,0.11322339759989354,0
+636,3,High-Risk: 2nd-Semester + Risk Composite,0.9103441787910188,1
+637,0,High-Risk: 2nd-Semester + Financial/Macro,0.9149168498532996,1
+638,1,Low-Risk: Academic Preparation + Other,0.11003498386114917,0
+639,1,Low-Risk: Academic Preparation + Other,0.11273251550000554,0
+640,2,Low-Risk: Other,0.10839690083742842,0
+641,3,High-Risk: 2nd-Semester + Risk Composite,0.9106409106487228,1
+642,2,Low-Risk: Other,0.10306989821334026,0
+643,0,High-Risk: 2nd-Semester + Financial/Macro,0.9138528102176292,1
+644,3,High-Risk: 2nd-Semester + Risk Composite,0.9152033236300461,1
+645,2,Low-Risk: Other,0.23372663748246894,1
+646,1,Low-Risk: Academic Preparation + Other,0.11573187764692974,0
+647,0,High-Risk: 2nd-Semester + Financial/Macro,0.6992503168832575,1
+648,2,Low-Risk: Other,0.101503267291798,0
+649,2,Low-Risk: Other,0.14181374826870333,0
+650,3,High-Risk: 2nd-Semester + Risk Composite,0.9112017880521859,1
+651,2,Low-Risk: Other,0.12902621221917293,0
+652,1,Low-Risk: Academic Preparation + Other,0.12088195454398747,0
+653,1,Low-Risk: Academic Preparation + Other,0.1683715068930951,0
+654,3,High-Risk: 2nd-Semester + Risk Composite,0.6202665241243108,0
+655,1,Low-Risk: Academic Preparation + Other,0.15350889066416934,0
+656,2,Low-Risk: Other,0.12594282885316171,0
+657,1,Low-Risk: Academic Preparation + Other,0.12570156195916005,0
+658,0,High-Risk: 2nd-Semester + Financial/Macro,0.708607523794966,1
+659,3,High-Risk: 2nd-Semester + Risk Composite,0.8902376651096408,1
+660,0,High-Risk: 2nd-Semester + Financial/Macro,0.6915396572075446,1
+661,1,Low-Risk: Academic Preparation + Other,0.11133004450342311,0
+662,3,High-Risk: 2nd-Semester + Risk Composite,0.8601873847981752,1
+663,1,Low-Risk: Academic Preparation + Other,0.1722288924231835,0
+664,1,Low-Risk: Academic Preparation + Other,0.1425097295750097,0
+665,2,Low-Risk: Other,0.14185019199955193,0
+666,3,High-Risk: 2nd-Semester + Risk Composite,0.9122724223702979,1
+667,2,Low-Risk: Other,0.3536133504225588,1
+668,1,Low-Risk: Academic Preparation + Other,0.15606190547049165,0
+669,0,High-Risk: 2nd-Semester + Financial/Macro,0.6824472875819598,1
+670,0,High-Risk: 2nd-Semester + Financial/Macro,0.9143018288938257,1
+671,2,Low-Risk: Other,0.1778939309590257,0
+672,0,High-Risk: 2nd-Semester + Financial/Macro,0.7736569446892143,1
+673,2,Low-Risk: Other,0.10410647324684374,0
+674,3,High-Risk: 2nd-Semester + Risk Composite,0.9156134743084903,1
+675,2,Low-Risk: Other,0.11370340264384399,0
+676,1,Low-Risk: Academic Preparation + Other,0.10372725702416377,0
+677,1,Low-Risk: Academic Preparation + Other,0.12037955289643273,0
+678,1,Low-Risk: Academic Preparation + Other,0.2426366066179967,0
+679,0,High-Risk: 2nd-Semester + Financial/Macro,0.7360468101934227,1
+680,1,Low-Risk: Academic Preparation + Other,0.10627155797463311,0
+681,2,Low-Risk: Other,0.12067212168368678,0
+682,2,Low-Risk: Other,0.12980112918206058,0
+683,2,Low-Risk: Other,0.11232894698011944,0
+684,1,Low-Risk: Academic Preparation + Other,0.10801477033310605,0
+685,0,High-Risk: 2nd-Semester + Financial/Macro,0.9162333357578846,1
+686,0,High-Risk: 2nd-Semester + Financial/Macro,0.9156080149808884,1
+687,2,Low-Risk: Other,0.1498938561229497,0
+688,2,Low-Risk: Other,0.13034877498733113,0
+689,3,High-Risk: 2nd-Semester + Risk Composite,0.9153012194729131,1
+690,1,Low-Risk: Academic Preparation + Other,0.1847981144802753,0
+691,1,Low-Risk: Academic Preparation + Other,0.11686693595348861,0
+692,0,High-Risk: 2nd-Semester + Financial/Macro,0.9096263170741593,1
+693,1,Low-Risk: Academic Preparation + Other,0.14749415599989837,1
+694,3,High-Risk: 2nd-Semester + Risk Composite,0.914484987506003,1
+695,1,Low-Risk: Academic Preparation + Other,0.10402147601751857,0
+696,0,High-Risk: 2nd-Semester + Financial/Macro,0.9153211969548245,1
+697,2,Low-Risk: Other,0.1624265045512626,0
+698,1,Low-Risk: Academic Preparation + Other,0.1303822347825749,0
+699,1,Low-Risk: Academic Preparation + Other,0.10699718200848209,0
+700,0,High-Risk: 2nd-Semester + Financial/Macro,0.8680364932081865,1
+701,2,Low-Risk: Other,0.11123550163348199,0
+702,0,High-Risk: 2nd-Semester + Financial/Macro,0.9093761923103361,1
+703,2,Low-Risk: Other,0.1345401625405337,0
+704,2,Low-Risk: Other,0.1690471814727564,0
+705,1,Low-Risk: Academic Preparation + Other,0.18789317962600782,0
+706,1,Low-Risk: Academic Preparation + Other,0.18295392525977922,0
+707,2,Low-Risk: Other,0.11510933889058106,0
+708,1,Low-Risk: Academic Preparation + Other,0.2025492228708681,0
+709,1,Low-Risk: Academic Preparation + Other,0.12485166244302837,0
+710,3,High-Risk: 2nd-Semester + Risk Composite,0.913331528961282,1
+711,1,Low-Risk: Academic Preparation + Other,0.13361652842753974,0
+712,1,Low-Risk: Academic Preparation + Other,0.1316755395894244,0
+713,1,Low-Risk: Academic Preparation + Other,0.1592182189927717,0
+714,3,High-Risk: 2nd-Semester + Risk Composite,0.9146033698091628,1
+715,1,Low-Risk: Academic Preparation + Other,0.16094069002299552,0
+716,0,High-Risk: 2nd-Semester + Financial/Macro,0.8942888179232154,1
+717,3,High-Risk: 2nd-Semester + Risk Composite,0.9092045941191,1
+718,3,High-Risk: 2nd-Semester + Risk Composite,0.9146544746652903,1
+719,1,Low-Risk: Academic Preparation + Other,0.2893971597061868,0
+720,3,High-Risk: 2nd-Semester + Risk Composite,0.9045432518726906,1
+721,3,High-Risk: 2nd-Semester + Risk Composite,0.9131744280940484,1
+722,1,Low-Risk: Academic Preparation + Other,0.15998173122253687,0
+723,2,Low-Risk: Other,0.1276079675068102,0
+724,2,Low-Risk: Other,0.11630427704943871,0
+725,2,Low-Risk: Other,0.1561688733041313,0

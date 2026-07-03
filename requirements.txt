@@ -1,0 +1,45 @@
+# DEEP-SEF: Student Dropout Prediction — Python dependencies
+# Tested with Python 3.10 – 3.11 on macOS / Linux.
+# Pin major+minor; allow patch updates.
+
+# ----- Core scientific stack -----
+numpy>=1.24,<2.1
+pandas>=2.0,<3.0
+scipy>=1.10,<2.0
+
+# ----- Tabular ML -----
+scikit-learn>=1.3,<1.6
+lightgbm>=4.1,<5.0
+xgboost>=2.0,<3.0
+catboost>=1.2,<2.0
+
+# ----- Imbalanced-learn (Borderline-SMOTE-2 + Tomek Links) -----
+imbalanced-learn>=0.11,<0.13
+
+# ----- Hyper-parameter optimisation -----
+optuna>=3.4,<5.0
+
+# ----- Deep tabular models -----
+torch>=2.0,<3.0
+pytorch-widedeep>=1.0      # for FT-Transformer-style architecture (optional, UCI only)
+
+# ----- TabPFN (UCI primary only; OULAD drops it for scale reasons) -----
+tabpfn>=0.1,<1.0
+
+# ----- Explainability -----
+shap>=0.43,<1.0
+
+# ----- Plotting -----
+matplotlib>=3.7,<4.0
+seaborn>=0.13,<1.0
+
+# ----- Model persistence -----
+joblib>=1.3,<2.0
+
+# ----- Jupyter runtime (so the .ipynb files can be re-executed) -----
+notebook>=7.0
+ipykernel>=6.25
+jupyterlab>=4.0
+
+# ----- Optional: progress bars -----
+tqdm>=4.66

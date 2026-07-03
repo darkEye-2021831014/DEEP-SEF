@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, the tuned hyper-parameters, or the published
+  results in your own work, please cite the paper below.
+title: >-
+  DEEP-SEF: Student Dropout Prediction by Combining Three
+  Strongest-Per-Family Tabular Learners and Turning Early Warning
+  Signs into Actionable Retention Decisions
+authors:
+  - family-names: Islam
+    given-names: Ashraful
+    affiliation: Department of Software Engineering, SUST, Sylhet
+    email: ashrafulislamdarkeye@gmail.com
+type: article
+journal: "Computers and Education: Artificial Intelligence"
+year: 2026
+keywords:
+  - stacking ensemble
+  - gradient boosting
+  - TabPFN
+  - SHAP
+  - conformal prediction
+  - open-world rejection
+  - student dropout
+  - OULAD
+  - cross-dataset validation
+license: MIT
+repository-code: https://github.com/darkEye-2021831014/DEEP-SEF
+commit: https://github.com/darkEye-2021831014/DEEP-SEF
+preferred-citation:
+  type: article
+  journal: "Computers and Education: Artificial Intelligence"
+  title: >-
+    DEEP-SEF: Student Dropout Prediction by Combining Three
+    Strongest-Per-Family Tabular Learners and Turning Early Warning
+    Signs into Actionable Retention Decisions
+  author:
+    - family-names: Islam
+      given-names: Ashraful
+  year: 2026

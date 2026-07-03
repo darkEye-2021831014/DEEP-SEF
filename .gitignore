@@ -1,0 +1,103 @@
+# ===== OS =====
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ===== Virtual environments =====
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.python-version
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# ===== Conda =====
+.conda/
+conda-meta/
+
+# ===== pytest / coverage =====
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+
+# ===== mypy / linters =====
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+
+# ===== IDE =====
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ===== Logs and temp =====
+*.log
+logs/
+tmp/
+temp/
+nohup.out
+
+# ===== Large / generated artifacts =====
+# Keep csv/ figures/ models/ meta/ folders (committed), but ignore checkpoints and runs/
+runs/
+checkpoints/
+wandb/
+mlruns/
+*.ckpt
+*.h5
+*.hdf5
+
+# ===== Environment / secrets =====
+.env
+.env.local
+.env.*.local
+*.pem
+secrets.yaml
